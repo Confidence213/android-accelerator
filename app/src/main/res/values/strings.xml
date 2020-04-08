@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shake App</string>
+    <string name="acceleration">X: Y: Z:</string>
+
+</resources>
